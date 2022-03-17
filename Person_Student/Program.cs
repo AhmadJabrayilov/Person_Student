@@ -7,7 +7,7 @@ namespace Person_Student
         static void Main(string[] args)
         {
             Student st1 = new Student();
-            st1.name = "Adasdas";
+            st1.name = "Ahmed";
             Console.WriteLine(st1.name);
             st1.surname = "Jabrayilov";
             Console.WriteLine(st1.surname);
